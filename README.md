@@ -1,1 +1,1 @@
-# Lending Club Loan-Analysis-and-Prediction using Random Forest
+# Lending Club Loan-Analysis-and-Predicting Approval/Rejection
